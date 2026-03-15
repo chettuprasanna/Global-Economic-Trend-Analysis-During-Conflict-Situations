@@ -52,3 +52,10 @@ Pie Charts to visualize distribution of economic indicators
 Card Visuals showing summary statistics
 
 Slicers for interactive filtering by country and indicator
+
+## Dashboard Preview
+
+
+![Dashboard](picture.png)
+
+
